@@ -6,7 +6,7 @@
     "keywords": ["node", "express", "akamai", "data", "collector"],
     "success_url": "/",
     "env": {
-      "MONGO_URI": {
+      "MONGODB_URI": {
         "description": "URI for your Mongo DB",
         "value": "mongodb+srv://..."
       }
